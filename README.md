@@ -15,12 +15,12 @@ or Anaconda
 `python bookings_report.py data_file query_date [--verbose]`
 
 Positional arguments:
-  data_file   The path to the desired comma-separated (csv) bookings file.
-  query_date  The date to query (YYYY-MM-DD)
+  * `data_file`   The path to the desired comma-separated (csv) bookings file.
+  * `query_date`  The date to query (YYYY-MM-DD)
 
 Optional arguments:
-  -h, --help  show help message and exit
-  --verbose   Print full table of query results to console
+  * `-h`, `--help`  show help message and exit
+  * `--verbose`   Print full table of query results to console
   
 ## Function ##
 
